@@ -10,6 +10,18 @@
    box-shadow: 2px 2px 2px black;
 }
 
+h1{
+	font-size: 20px;
+	text-align: center;
+	margin-left: 50px;
+}
+
+p{
+	font-size: 10px;
+	text-align: center;
+	margin-left: 50px;
+}
+
 .main{
 	position: absolute;
 	background-color: white;
@@ -20,7 +32,23 @@
 .instructors{
 	border-style: solid;
 	border-color: black;
+	width: 550px;
+	height: 250px;
+	position: relative;
+	left: 400px;
+	
 }
+
+.Students{
+	border-style: solid;
+	border-color: black;
+	width: 1025px;
+	height: 850px;
+	position: relative;
+	left: 150px;
+	top: 20px;
+}
+
 
 #arif{
 	   padding-left: 15px;
@@ -53,7 +81,7 @@
 }
 
 #james{
-	   padding-left: 15px;
+	   padding-left: 22px;
    padding-right: 15px;
    display:inline-block;
 }
