@@ -31,33 +31,64 @@ p{
 
 .instructors{
 	border-style: solid;
-	border-color: black;
-	width: 550px;
-	height: 250px;
+	border-width: 2px;
+	border-color: #000457;
+	width: 520px;
+	height: 260px;
 	position: relative;
 	left: 400px;
+	top: 25px;
 	
+}
+
+#in-div{
+	position: absolute;
+	left: 134px;
+	bottom: 248px;
+	width: 250px;
+}
+
+#end-div{
+	position: relative;
+	left: 220px;
+	bottom: 4px;
+	
+}
+#stu-div{
+	position: absolute;
+	left: 370px;
+	bottom: 808px;
+	width: 320px;
+}
+
+#endd-div{
+	position: relative;
+	left: 475px;
+	top: 84px;
 }
 
 .Students{
 	border-style: solid;
-	border-color: black;
+	border-color: #000457;
 	width: 1025px;
-	height: 850px;
+	height: 820px;
 	position: relative;
 	left: 150px;
-	top: 20px;
+	top: 100px;
+	border-width: 2px;
 }
 
 
 #arif{
 	   padding-left: 15px;
    padding-right: 15px;
+   padding-top: 10px;
    display:inline-block;
 }
 
 #devaris{
 	   padding-left: 15px;
+	   padding-top: 10px;
    padding-right: 15px;
    display:inline-block;
 }
