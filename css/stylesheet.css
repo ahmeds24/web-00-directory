@@ -1,0 +1,124 @@
+.avi{
+    border-radius: 200px;
+    border: 1 px solid white; 
+    width: 150px;
+    height: 150px; 
+   text-align: center;
+   background-color: black;
+   margin-left: 50px;
+   margin-top: 10px;
+   box-shadow: 2px 2px 2px black;
+}
+
+h1{
+	font-size: 20px;
+	text-align: center;
+	margin-left: 50px;
+}
+
+p{
+	font-size: 10px;
+	text-align: center;
+	margin-left: 50px;
+}
+
+.main{
+	position: absolute;
+	background-color: white;
+	width: 100%;
+	height: 700px;
+}
+
+.instructors{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000457;
+	width: 520px;
+	height: 260px;
+	position: relative;
+	left: 400px;
+	top: 25px;
+	
+}
+
+#in-div{
+	position: absolute;
+	left: 134px;
+	bottom: 248px;
+	width: 250px;
+}
+
+#end-div{
+	position: relative;
+	left: 220px;
+	bottom: 4px;
+	
+}
+#stu-div{
+	position: absolute;
+	left: 370px;
+	bottom: 808px;
+	width: 320px;
+}
+
+#endd-div{
+	position: relative;
+	left: 475px;
+	top: 84px;
+}
+
+.Students{
+	border-style: solid;
+	border-color: #000457;
+	width: 1025px;
+	height: 820px;
+	position: relative;
+	left: 150px;
+	top: 100px;
+	border-width: 2px;
+}
+
+
+#arif{
+	   padding-left: 15px;
+   padding-right: 15px;
+   padding-top: 10px;
+   display:inline-block;
+}
+
+#devaris{
+	   padding-left: 15px;
+	   padding-top: 10px;
+   padding-right: 15px;
+   display:inline-block;
+}
+
+#addis{
+	   padding-left: 15px;
+   padding-right: 15px;
+   display:inline-block;
+}
+
+#ahmed{
+	   padding-left: 15px;
+   padding-right: 15px;
+   display:inline-block;
+}
+
+#dom{
+	   padding-left: 15px;
+   padding-right: 15px;
+   display:inline-block;
+}
+
+#james{
+	   padding-left: 22px;
+   padding-right: 15px;
+   display:inline-block;
+}
+
+#risha{
+	   padding-left: 15px;
+   padding-right: 15px;
+   display:inline-block;
+}
