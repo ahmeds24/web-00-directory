@@ -1,13 +1,23 @@
+.header {
+  background-color: rgba(168, 200, 255, 0.64);
+  position: relative;
+  width: 1360px;
+  height: 120px;
+  right: 8px;
+  bottom: 8px;
+  box-shadow: 2px 2px 2px grey;
+}
+
 .avi{
     border-radius: 200px;
-    border: 1 px solid white; 
+    border: 1px solid #1c1c1c; 
     width: 150px;
     height: 150px; 
    text-align: center;
    background-color: black;
    margin-left: 50px;
    margin-top: 10px;
-   box-shadow: 2px 2px 2px black;
+   box-shadow: 2px 2px 2px #1c1c1c;
 }
 
 h1{
