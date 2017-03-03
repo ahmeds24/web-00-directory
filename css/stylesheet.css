@@ -25,9 +25,15 @@
    box-shadow: 2px 2px 2px #1c1c1c;
 }
 
-#arif:hover{
-    background-color: grey;
+
+img.avi:hover{
+	display: block;
+ margin-bottom: 10px;
+ background-position: center top;
+ background-repeat: no-repeat;
 }
+
+
 
 h1{
 	font-size: 20px;
